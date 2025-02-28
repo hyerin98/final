@@ -1,9 +1,9 @@
-const cacheName = "IMFINE-TerraXPacMan_ARGame-0.1.16";
+const cacheName = "IMFINE-TerraXPacMan_ARGame-0.1.22";
 const contentToCache = [
-    "Build/final2.loader.js",
-    "Build/final2.framework.js.unityweb",
-    "Build/final2.data.unityweb",
-    "Build/final2.wasm.unityweb",
+    "Build/TerraBuild_Brotli.loader.js",
+    "Build/TerraBuild_Brotli.framework.js.unityweb",
+    "Build/TerraBuild_Brotli.data.unityweb",
+    "Build/TerraBuild_Brotli.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
